@@ -157,10 +157,12 @@ print('\n')
 
 a, b = 0, 1
 cont = 0
-while a < 1000:
-    print(a, cont, end=' , ') #end transforma o jeito de saido do print para mesma linha
+while a < 10000:
+    print('Soma:',cont,'Resultado', a, end=', ') #end transforma o jeito de saido do print para mesma linha
     a, b = b, a+b
     cont += 1
+
+
 
 
 
