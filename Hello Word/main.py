@@ -1,4 +1,4 @@
-#Essa atividade representa o tutorial de introdução python cap 3
+#Essa atividade e uma introdução python cap 3
 #          Uma introdução formal ao python
 
 #meu primeiro hello word :) 20/05/2020 espero me orgulhar disso no futuro (estou no notebook ruim)
